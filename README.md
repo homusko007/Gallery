@@ -1,4 +1,4 @@
-# App React for Пфддукн
+# App React  Photo Gallery
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -20,7 +20,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In this project, the data comes from the [Unsplash API](https://unsplash.com). You can view and search photos without authorization. To put a like and view a list of favorite photos, you must log in to the application.
 Loyout in the application was created using the library [React Masonry css](https://www.npmjs.com/package/react-masonry-css)
+
+
 ## Brief overview video:
+
+
+https://user-images.githubusercontent.com/100041021/233669723-38db20bc-b979-4873-afb3-0e2d66910102.mp4
 
 
 ## Getting started
