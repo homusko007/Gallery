@@ -1,0 +1,27 @@
+.author {
+  display: flex;
+  gap: 15px;
+  grid-area: author;
+}
+
+.title {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.avatar {
+border-radius: 50%;
+}
+
+.online {
+  width: 10px;
+  height: 10px;
+  margin-top: 5px;
+  border-radius: 50%;
+  background-color: green;
+}
+
+.location {
+  font-size: 11px;
+  margin-top: 5px;
+}

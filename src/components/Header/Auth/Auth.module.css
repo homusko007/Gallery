@@ -1,0 +1,39 @@
+.container {
+    display: block;
+    text-align: center;
+    grid-column: 5/6;
+}
+
+.logout {
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
+.authLink {
+    display: block;
+    width: 30px;
+    height: 30px;
+    outline: 2px solid transparent;
+    border-radius: 50%;
+    outline-offset: 2px;
+    transition: outline-color 0.36s ease-in-out;
+}
+
+.authLink:hover {
+    color:black
+}
+
+.authLink:focus {
+   color:black
+}
+
+.authLink:active {
+    color:black
+}
+
+.svg {
+    width: 100%;
+    height: 100%;
+    color: #00ccff;
+}
